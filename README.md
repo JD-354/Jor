@@ -160,12 +160,20 @@ Jordan Collection
               </li>
 
 <li class="nav-item">
-<a class="nav-link" href="" class="fas fa-fire">Nuevos Lanzamientos</a>
+
+<a class="nav-link" href="#1"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
+
 </li>
 
 <li class="nav-item ">
 <a class="nav-link" href="https://jd-354.github.io/DPT/">Deportivos</a>
               </li>
+
+   <li class="nav-item">
+
+<a class="nav-link" href="#"><i class="fas fa-fire"></i>Envios</a>
+
+</li>
 
 Clásicos</a>
 

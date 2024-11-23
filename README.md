@@ -157,7 +157,9 @@ Jordan Collection
 
 <li class="nav-item">
 
-<a href="https://jd-354.github.io/Z/" ></a>href="https://zapatostyle.com/jordan"><i class="fas fa-home"></i> Inicio
+<a href="https://jd354.github.io/Z/"
+href="https://zapatostyle.com/jordan"><i class="fas fa-home">
+</i> Inicio
 </a>
 
 

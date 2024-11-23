@@ -297,7 +297,7 @@ Clásicos</a>
 
 <div class="product-card p-3">
 
-<img src="https://images.app.goo.gl/sdRsXJkt6gVpoXYDA" alt="Air Jordan 4 Retro, premium suede finish" class="img-fluid mb-3" width="100%" height="300">
+<img src="https://workshopcol.co/products/jordan-4-retro-sb-black" alt="Air Jordan 4 Retro, premium suede finish" class="img-fluid mb-3" width="100%" height="300">
 
 <h5>Air Jordan 4 Retro</h5>
 

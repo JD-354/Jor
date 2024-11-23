@@ -157,7 +157,9 @@ Jordan Collection
 
 <li class="nav-item">
 
-<a  href="https://jd-354.github.io/Z/">Inicio</a>
+<li class="nav-item ">
+                <a class="nav-link" href="https://jd-354.github.io/RJ/">Inicio</a>
+              </li>
 
 </li>
 

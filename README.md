@@ -161,7 +161,7 @@ Jordan Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="#1"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
+<a class="nav-link" href="https://jd-354.github.io/N/"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
 
 </li>
 

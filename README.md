@@ -155,14 +155,9 @@ Jordan Collection
 
 <ul class="navbar-nav me-auto">
 
-<li class="nav-item">
-
 <li class="nav-item ">
-                <a class="nav-link" href="https://jd-354.github.io/RJ/">Inicio</a>
+<a class="nav-link" href="https://jd-354.github.io/Z/">Inicio</a>
               </li>
-
-</li>
-
 <li class="nav-item">
 
 <a class="<a href="https://jd-354.github.io/Z/" >" href="https://zapatostyle.com/jordan/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>

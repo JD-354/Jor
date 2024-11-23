@@ -175,9 +175,8 @@ Jordan Collection
 
 </li>
 
-Clásicos</a>
+Clásicos
 
-</li>
 
 </ul>
 

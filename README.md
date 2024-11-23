@@ -133,7 +133,7 @@ padding: 5px 10px; border-radius: 5px;
 
 <div class="container">
 
-<a class="navbar-brand" href="https://zapatostyle.com">
+<a class="navbar-brand" href="">
 
 <img src="https://images.unsplash.com/photo-1600269452121-4f2416e55c28" alt="Jordan Logo" width="40" height="40" class="d-inline-block align-text-top me-2">
 

@@ -333,7 +333,7 @@ Clásicos
 <div class="col-md-4">
 
 <div class="product-card p-3">
-<img src="https://websim.ai/c/5imRc2MJQCJwQvw5y" alt="Air Jordan 1 Retro High OG, classic red and white colorway" class="img-fluid mb-3" width="100%" height="300">
+<img src="https://cdn.flightclub.com/750/TEMPLATE/805882/1.jpg" alt="Air Jordan 1 Retro High OG, classic red and white colorway" class="img-fluid mb-3" width="100%" height="300">
 
 <h5>Air Jordan 11 Retro</h5>
 

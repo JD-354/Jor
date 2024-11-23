@@ -296,7 +296,7 @@ Clásicos
 
 <div class="product-card p-3">
 
-<img src="https://images.app.goo.gl/Pr8FU43nPQZYaXUZ7" alt="Air Jordan 4 Retro, premium suede finish" class="img-fluid mb-3" width="100%" height="300">
+<img src="https://cdn.flightclub.com/750/TEMPLATE/296982/1.jpg" alt="Air Jordan 4 Retro, premium suede finish" class="img-fluid mb-3" width="100%" height="300">
 
 <h5>Air Jordan 4 Retro</h5>
 
@@ -334,7 +334,7 @@ Clásicos
 
 <div class="product-card p-3">
 
-<img src="https://www.google.com/shopping/product/1/image?q=retro+11&sca_esv=ead86818698e8678&biw=450&bih=866&sxsrf=ADLYWIIOdItr_T2Phpz1lFkyE9rwu34N1w:1732364237540&oq=retro+11&gs_lp=Eg5tb2JpbGUtc2gtc2VycCIIcmV0cm8gMTEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjRHVDUCVj_FnAAeACQAQCYAacBoAHbBKoBAzAuNLgBA8gBAPgBAYoCEm1vYmlsZS1zaC13aXotc2VycJgCBKAC8AXCAgQQIxgnmAMAiAYBkgcFMC4zLjGgB-EQ&sclient=mobile-sh-serp&prds=cs:1,mvi:0,pid:17903890033379267561,sgro:iv&sa=X&ved=0ahUKEwjM1ZHlt_KJAxWRnIQIHV-XNLMQnUAIYg" alt="Air Jordan 11 Retro, patent leather design" class="img-fluid mb-3" width="100%" height="300">
+<img src="https://websim.ai/c/5imRc2MJQCJwQvw5y" alt="Air Jordan 11 Retro, patent leather design" class="img-fluid mb-3" width="100%" height="300">
 
 <h5>Air Jordan 11 Retro</h5>
 

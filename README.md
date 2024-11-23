@@ -160,7 +160,7 @@ Jordan Collection
               </li>
 
 <li class="nav-item">
-<a class="nav-link" href="" class="fas fa-fire"></i> Nuevos Lanzamientos</a>
+<a class="nav-link" href="" class="fas fa-fire">Nuevos Lanzamientos</a>
 </li>
 
 <li class="nav-item ">

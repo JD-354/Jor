@@ -158,8 +158,8 @@ Jordan Collection
 <li class="nav-item">
 
 <a href="https://jd354.github.io/Z/"
-href="https://zapatostyle.com/jordan"><i class="fas fa-home">
-</i> Inicio
+href="<a href="https://jd-354.github.io/Z/" >"><i>
+</i>Inicio
 </a>
 
 
@@ -167,13 +167,13 @@ href="https://zapatostyle.com/jordan"><i class="fas fa-home">
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/jordan/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
+<a class="<a href="https://jd-354.github.io/Z/" >" href="https://zapatostyle.com/jordan/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
 
 </li>
 
 <li class="nav-item">
 
-<a  class="nav-link"  href="https://zapatostyle.com/jordan/clasicos"><i  class="fas  fa-star"></i>
+<a  class="nav-link"  href="<a href="https://jd-354.github.io/Z/" >"><i  class="fas  fa-star"></i>
 
 Clásicos</a>
 

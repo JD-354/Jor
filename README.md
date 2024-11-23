@@ -296,7 +296,7 @@ Clásicos
 
 <div class="product-card p-3">
 
-<img src="https://www.google.com/url?q=https://bodegamayoristadeportivaa.mitiendanube.com/productos/nike-retro-3/%3Fvariant%3D1001494012%26pf%3Dmc&opi=95576897&sa=U&ved=0ahUKEwiRyf_Xt_KJAxXYTTABHQTcNnwQwSsINQ&usg=AOvVaw3NMJvdrhpoFZoA-kyW_jH5" alt="Air Jordan 4 Retro, premium suede finish" class="img-fluid mb-3" width="100%" height="300">
+<img src="https://images.app.goo.gl/Pr8FU43nPQZYaXUZ7" alt="Air Jordan 4 Retro, premium suede finish" class="img-fluid mb-3" width="100%" height="300">
 
 <h5>Air Jordan 4 Retro</h5>
 

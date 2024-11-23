@@ -171,7 +171,7 @@ Jordan Collection
 
    <li class="nav-item">
 
-<a class="nav-link" href="#"><i class="fas fa-fire"></i>Envios</a>
+<a class="nav-link" href="https://jd-354.github.io/Cpr/"><i class="fas fa-fire"></i>Envios</a>
 
 </li>
 

@@ -159,16 +159,13 @@ Jordan Collection
 <a class="nav-link" href="https://jd-354.github.io/Z/">Inicio</a>
               </li>
 
-
-<li class="nav-item ">
-<a class="nav-link" href="https://jd-354.github.io/DPT/">Deportes</a>
-              </li>
 <li class="nav-item">
-<a class="<a href="https://jd-354.github.io/Z/" >" href="https://zapatostyle.com/jordan/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
-
+<a class="nav-link" href="" class="fas fa-fire"></i> Nuevos Lanzamientos</a>
 </li>
 
-
+<li class="nav-item ">
+<a class="nav-link" href="https://jd-354.github.io/DPT/">Deportivos</a>
+              </li>
 
 Clásicos</a>
 
